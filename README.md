@@ -1,3 +1,5 @@
+OS must be Windows
+
 to install reqs:
 pip install -r requirements.txt
 
